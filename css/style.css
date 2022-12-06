@@ -65,12 +65,14 @@ figure{
    justify-content: center;
 }
 
+
 /* Class selectors */
 
 .container{
 
   display: grid;
   grid-template-columns: 25% 75%;
+
 
 }
 
