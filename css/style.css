@@ -21,3 +21,17 @@ h6 {
 p {
   margin: 0;
 }
+
+
+/* Class selectors */
+
+.container{
+
+  display: grid;
+  grid-template-columns: 25% 75%;
+
+}
+.page-section{
+
+}
+
