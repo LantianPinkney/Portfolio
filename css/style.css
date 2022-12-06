@@ -59,3 +59,9 @@ display: flex;
 justify-content: center;
 }
 
+/* id selectors */
+
+#contact{
+  background-color: #462255;
+  color: aliceblue;
+}
