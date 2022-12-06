@@ -17,9 +17,7 @@ This challenge will apply some core skills I've recently learnt such as: flexbox
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-N/A
+No need for installation N/A
 
 ## Usage
 
